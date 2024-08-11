@@ -21,6 +21,6 @@
 </p>
 <p align="center">
 <a href="mailto:liuzhizun522@outlook.com"><img src="https://img.shields.io/badge/邮箱-liuzhizun522@outlook.com-005FF9?logo=maildotru" /></a>
-<img src="https://img.shields.io/badge/QQ-3048973008-1EBAFC?logo=tencentqq" />
+<a href="mailto:3048973008@qq.com"><img src="https://img.shields.io/badge/QQ-3048973008-1EBAFC?logo=tencentqq" /></a>
 </p>
 
